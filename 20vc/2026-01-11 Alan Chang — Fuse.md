@@ -2010,3 +2010,4 @@ like Cursor to Enterprises like Snowflake. Choose Vanta, do security and
 compliance. Right. My listeners can get $1,000 off Vanta by going to
 vanta.com/two zero vc. That's vanta.com/two zero VC for $1,000 off Vanta.
 
+

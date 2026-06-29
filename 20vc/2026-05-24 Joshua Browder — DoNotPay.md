@@ -2136,3 +2136,4 @@ like Snowflake, choose Vanta, do security and compliance.
 Right. My listeners can get $1,000 off Vanta by going to vanta.com/two zero
 vc. That's vanta.com/two zero VC for $1,000 off [01:29:00] Vanta.
 
+

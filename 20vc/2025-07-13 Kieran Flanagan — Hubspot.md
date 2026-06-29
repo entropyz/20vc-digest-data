@@ -1615,3 +1615,4 @@ As always, I so
 appreciate all your support and stay tuned for an incredible 20 VC coming on
 Monday with Vlad 10, founder and CEO at Robinhood.
 
+

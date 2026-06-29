@@ -1484,3 +1484,4 @@ at vanta.com/two zero vc. That's vanta.com/two zero vc.
 I so appreciate all your support and stay tuned for a fantastic episode coming on
 Thursday with Jason Lakin and r Driscoll.
 
+

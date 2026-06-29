@@ -1935,3 +1935,4 @@ office ops.
 So if you're starting a new fund, don't be a moron. Just use AngelList. They're
 incredible. Head over to angellist.com/two zero VC to learn more.
 
+

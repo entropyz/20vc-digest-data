@@ -1248,3 +1248,4 @@ growing a company your customers can trust.
 My listeners can get $1,000 off Vanta by going to vanta.com/two zero vc. That's
 VAN. Dot com slash 20 VC two zero VC for $1,000 off Vanta.
 
+

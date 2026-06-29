@@ -2604,3 +2604,4 @@ support and stay tuned for a fantastic episode on Thursday with Jason Lemkin, r
 [01:14:00] Driscoll, and Twilio founder Jeff Lawson. It's a special one, the news
 roundup of the week. I.
 
+

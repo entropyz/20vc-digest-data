@@ -1477,3 +1477,4 @@ As always, I so
 appreciate all your sport and stay tuned for an incredible episode coming on
 Monday with Maran Mineo from the Best fund of the Time, index Ventures.
 
+

@@ -1691,3 +1691,4 @@ That's Get Tech slash 20 vc.
 As always, I so appreciate all your support and stay tuned for an incredible
 episode coming this Thursday with r Driscoll and Jason Lampkin.
 
+

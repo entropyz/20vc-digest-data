@@ -1459,3 +1459,4 @@ That's code 20 lowercase VC for 10% off. Plus a free tool@appsumo.com.
 As always, I so appreciate all your support and stay tuned for an incredible
 episode coming on Monday with the head of private equity at KKR.
 
+

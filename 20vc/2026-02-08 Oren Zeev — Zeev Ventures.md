@@ -1411,3 +1411,4 @@ startups like Cursor to Enterprises like Snowflake, choose Vanta, do security
 and compliance, right. My listeners can get $1,000 off Vanta by going to
 vanta.com/two zero vc. That's vanta.com/two zero VC for $1,000 off Vanta.
 
+

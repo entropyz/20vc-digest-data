@@ -1,5 +1,79 @@
 # Lenny's Podcast — All Episodes
-*Generated: 2026-06-12 | 237 episodes | 2025-06-01 → 2026-06-11*
+*Generated: 2026-06-29 | 249 episodes | 2025-06-01 → 2026-06-29*
+
+---
+
+## 2026-06-29 | Lenny Rachitsky — The taste to know what to build is what matters now.
+**Type:** Interview | **Duration:** 0m | **Views:** 762
+[YouTube](https://www.youtube.com/watch?v=mEnAn5sN96c)
+
+---
+
+## 2026-06-28 | Andrew Ambrosino — OpenAI Codex lead on the new shape of product work
+**Type:** Interview | **Duration:** 1h 9m | **Views:** 17,610 | **Tags:** #ai #b2b #career #consumer #defense #design #engineering #fundraising #leadership #product #saas #startup
+[YouTube](https://www.youtube.com/watch?v=P3KDebPTUrw)
+
+---
+
+## 2026-06-25 | Lenny Rachitsky — What AI coding costs engineers
+**Type:** Interview | **Duration:** 0m | **Views:** 2,919 | **Tags:** #ai #engineering
+[YouTube](https://www.youtube.com/watch?v=X_LrhBI3Z2Y)
+
+---
+
+## 2026-06-24 | Lenny Rachitsky — The two hires Anthropic wants
+**Type:** Interview | **Duration:** 0m | **Views:** 1,861 | **Tags:** #hiring
+[YouTube](https://www.youtube.com/watch?v=GwMjY4tBX_M)
+
+---
+
+## 2026-06-24 | Lenny Rachitsky — Coding is no longer the bottleneck
+**Type:** Interview | **Duration:** 0m | **Views:** 6,785 | **Tags:** #engineering
+[YouTube](https://www.youtube.com/watch?v=UPUFF1pkAOI)
+
+---
+
+## 2026-06-23 | Lenny Rachitsky — Fiona Fung’s Claude now automatically reads her Slack every morning?
+**Type:** Interview | **Duration:** 0m | **Views:** 3,688 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=Dh50sbzOXfE)
+
+---
+
+## 2026-06-23 | Lenny Rachitsky — The antidote for AI anxiety
+**Type:** Interview | **Duration:** 0m | **Views:** 1,810 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=D9gK7GD6AXg)
+
+---
+
+## 2026-06-21 | Fiona Fung — What happens after coding is solved?
+**Companies:** Claude Code & Cowork
+**Type:** Interview | **Duration:** 1h 38m | **Views:** 38,474 | **Tags:** #ai #b2b #consumer #engineering #founder-advice #fundraising #growth #hiring #leadership #marketplace #metrics #product #saas
+[YouTube](https://www.youtube.com/watch?v=Ybrl4FYM57c)
+
+---
+
+## 2026-06-18 | Lenny Rachitsky — Do we need a new social app?
+**Type:** Interview | **Duration:** 1m | **Views:** 1,714 | **Tags:** #consumer #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=IvHtY1X-wzM)
+
+---
+
+## 2026-06-17 | Lenny Rachitsky — You should be less ambitious
+**Type:** Interview | **Duration:** 1m | **Views:** 1,751 | **Tags:** #founder-advice #product #startup
+[YouTube](https://www.youtube.com/watch?v=Dr9_Qjr_Nok)
+
+---
+
+## 2026-06-16 | Lenny Rachitsky — Innovation starts with copying
+**Type:** Interview | **Duration:** 0m | **Views:** 1,930 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=0Qd-nUslXGE)
+
+---
+
+## 2026-06-14 | Mark Pincus — The hidden pattern behind successful products
+**Companies:** FarmVille, Words with Friends, & more
+**Type:** Interview | **Duration:** 1h 39m | **Views:** 38,588 | **Tags:** #ai #b2b #consumer #founder-advice #fundraising #product #startup
+[YouTube](https://www.youtube.com/watch?v=7eh9C3TUotc)
 
 ---
 
@@ -1449,4 +1523,4 @@
 [YouTube](https://www.youtube.com/watch?v=MnBZlEQ14fY)
 
 ---
-*End of digest — 237 episodes*
+*End of digest — 249 episodes*
