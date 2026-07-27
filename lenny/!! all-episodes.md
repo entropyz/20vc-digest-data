@@ -1,5 +1,139 @@
 # Lenny's Podcast — All Episodes
-*Generated: 2026-06-29 | 249 episodes | 2025-06-01 → 2026-06-29*
+*Generated: 2026-07-27 | 271 episodes | 2025-06-01 → 2026-07-26*
+
+---
+
+## 2026-07-26 | Dianne Penn — How Anthropic builds products like Claude Code before the AI models are ready
+**Type:** Interview | **Duration:** 1h 33m | **Views:** 12,617 | **Tags:** #ai #b2b #career #consumer #engineering #founder-advice #fundraising #hiring #leadership #metrics #product #startup
+[YouTube](https://www.youtube.com/watch?v=tivaWTTVRhY)
+
+---
+
+## 2026-07-24 | Lenny Rachitsky — Netflix's CPTO on whether teams need specialists
+**Type:** Interview | **Duration:** 0m | **Views:** 2,526 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=vyKPMWhcEBk)
+
+---
+
+## 2026-07-24 | Lenny Rachitsky — Why Boris Cherny came back to Anthropic from Cursor
+**Type:** Interview | **Duration:** 0m | **Views:** 5,647
+[YouTube](https://www.youtube.com/watch?v=Ld57aoBSwq0)
+
+---
+
+## 2026-07-21 | Lenny Rachitsky — The skill Netflix is hiring for
+**Type:** Interview | **Duration:** 0m | **Views:** 3,134 | **Tags:** #hiring
+[YouTube](https://www.youtube.com/watch?v=ol7ZuT3Hm3c)
+
+---
+
+## 2026-07-20 | Lenny Rachitsky — AI is Changing How Netflix Operates
+**Type:** Interview | **Duration:** 1m | **Views:** 3,913 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=0v_RqRo6waQ)
+
+---
+
+## 2026-07-19 | Elizabeth Stone — Why Netflix is betting on systems thinkers—not specialists—in the AI era
+**Companies:** CPTO
+**Type:** Interview | **Duration:** 1h 12m | **Views:** 174,569 | **Tags:** #ai #b2b #career #consumer #design #engineering #fundraising #hiring #leadership #product
+[YouTube](https://www.youtube.com/watch?v=t0GiTyz4syY)
+
+---
+
+## 2026-07-19 | Lenny Rachitsky — The Answer to "What's My Job in the Age of AI?”
+**Type:** Interview | **Duration:** 0m | **Views:** 3,973 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=NiDZmfkQbcU)
+
+---
+
+## 2026-07-15 | Lenny Rachitsky — AI is both addicting and exhausting
+**Type:** Interview | **Duration:** 1m | **Views:** 3,099 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=zshnOIH-8Qs)
+
+---
+
+## 2026-07-14 | Lenny Rachitsky — The 4 types of tech workers in 2026
+**Type:** Interview | **Duration:** 1m | **Views:** 2,349
+[YouTube](https://www.youtube.com/watch?v=2De481hOI4g)
+
+---
+
+## 2026-07-12 | Lenny Rachitsky — The head of Instagram on why AI content is a tailwind, not a headwind.
+**Type:** Interview | **Duration:** 0m | **Views:** 3,043 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=TNyVjLUy9ck)
+
+---
+
+## 2026-07-12 | Noam Segal — Why the AI’s honeymoon is ending (and tech workers are feeling it)
+**Type:** Interview | **Duration:** 1h 36m | **Views:** 30,101 | **Tags:** #ai #b2b #career #consumer #design #engineering #founder-advice #metrics #product #saas #sales #startup
+[YouTube](https://www.youtube.com/watch?v=_cmpIveXnvE)
+
+---
+
+## 2026-07-11 | Lenny Rachitsky — The best product leaders aren't the ones with the most ideas.
+**Type:** Interview | **Duration:** 0m | **Views:** 6,571 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=vr13eFx8BEk)
+
+---
+
+## 2026-07-11 | Lenny Rachitsky — Don't worship AI tools
+**Type:** Interview | **Duration:** 0m | **Views:** 2,331 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=h_1x1UqI5ro)
+
+---
+
+## 2026-07-10 | Lenny Rachitsky — The shape of product teams in 2026
+**Type:** Interview | **Duration:** 0m | **Views:** 5,860 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=CBqNhKZgFmk)
+
+---
+
+## 2026-07-09 | Lenny Rachitsky — AI content will help Instagram
+**Type:** Interview | **Duration:** 0m | **Views:** 2,538 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=JzDuRXjU3V0)
+
+---
+
+## 2026-07-09 | Adam Mosseri — The rise of taste, human authenticity and judgment in an AI world
+**Companies:** Head of IG
+**Type:** Interview | **Duration:** 1h 8m | **Views:** 31,576 | **Tags:** #ai #b2b #career #china #consumer #design #engineering #leadership #metrics #product #startup #strategy
+[YouTube](https://www.youtube.com/watch?v=yQ_EWmtfWvQ)
+
+---
+
+## 2026-07-05 | Lenny Rachitsky — How Codex learnt to edit videos
+**Type:** Interview | **Duration:** 0m | **Views:** 3,634
+[YouTube](https://www.youtube.com/watch?v=MBQLYAWhlO4)
+
+---
+
+## 2026-07-03 | Lenny Rachitsky — Why product roles need to stay
+**Type:** Interview | **Duration:** 0m | **Views:** 4,144 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=fciOhYZOZuo)
+
+---
+
+## 2026-07-02 | Lenny Rachitsky — Why is AI so bad at design?
+**Type:** Interview | **Duration:** 0m | **Views:** 3,914 | **Tags:** #ai #design
+[YouTube](https://www.youtube.com/watch?v=TuXk2bNwT8o)
+
+---
+
+## 2026-07-02 | Lenny Rachitsky — Codex App would’ve failed if released in November 2025. Here’s why;
+**Type:** Interview | **Duration:** 0m | **Views:** 3,494
+[YouTube](https://www.youtube.com/watch?v=d2R-PVx1zyM)
+
+---
+
+## 2026-07-01 | Lenny Rachitsky — Taste is more than aesthetics
+**Type:** Interview | **Duration:** 0m | **Views:** 1,999 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=F4y64akVDjI)
+
+---
+
+## 2026-06-30 | Lenny Rachitsky — PRDs are not dead
+**Type:** Interview | **Duration:** 1m | **Views:** 2,927 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=9ukb1zmyvs8)
 
 ---
 
@@ -1523,4 +1657,4 @@
 [YouTube](https://www.youtube.com/watch?v=MnBZlEQ14fY)
 
 ---
-*End of digest — 249 episodes*
+*End of digest — 271 episodes*
